@@ -66,11 +66,11 @@ West Gear was the strongest-performing retail partner, while Walmart recorded th
 
 ![Product Performance](product-performance.png)
 
-## Recommendations
-
 ### Adidas Sales Dashboard
 
 ![Adidas Sales Dashboard](Adidas_Sales_Dashboard.png)
+
+## Recommendations
 
 Based on the analysis:
 
