@@ -68,6 +68,10 @@ West Gear was the strongest-performing retail partner, while Walmart recorded th
 
 ## Recommendations
 
+### Adidas Sales Dashboard
+
+![Adidas Sales Dashboard](Adidas_Sales_Dashboard.png)
+
 Based on the analysis:
 
 - Prioritise high-performing products such as Men's Street Footwear.
@@ -79,8 +83,13 @@ Based on the analysis:
 
 ## Project Files
 
-- `Adidas Sales Dataset.xlsx` – Excel dataset, analysis, and visualisations
-- `Adidas Recommendation.docx` – Detailed business recommendations
+- **Adidas Sales Dataset.xlsx** — Original dataset used for the analysis.
+- **Adidas Recommendation.docx** — Business recommendations based on the analysis findings.
+- **Adidas_Sales_Dashboard.png** — Final Excel dashboard summarising key sales and profitability insights.
+- **product-performance.png** — Product category revenue and operating profit comparison.
+- **quarterly-sales-profits.png** — Quarterly sales and profit trends.
+- **regional-sales-analysis.png** — Regional revenue and operating profit performance.
+- **retailer-revenue-profit-comparison.png** — Retailer revenue and operating profit comparison.
 
 ## Conclusion
 
