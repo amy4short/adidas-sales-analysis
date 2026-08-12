@@ -83,13 +83,13 @@ Based on the analysis:
 
 ## Project Files
 
-- **Adidas Sales Dataset.xlsx** — Original dataset used for the analysis.
-- **Adidas Recommendation.docx** — Business recommendations based on the analysis findings.
-- **Adidas_Sales_Dashboard.png** — Final Excel dashboard summarising key sales and profitability insights.
-- **product-performance.png** — Product category revenue and operating profit comparison.
-- **quarterly-sales-profits.png** — Quarterly sales and profit trends.
-- **regional-sales-analysis.png** — Regional revenue and operating profit performance.
-- **retailer-revenue-profit-comparison.png** — Retailer revenue and operating profit comparison.
+- `Adidas Sales Dataset.xlsx` – Excel dataset containing the sales data and analysis.
+- `Adidas_Sales_Dashboard.png` – Screenshot of the completed Excel dashboard.
+- `product-performance.png` – Product category revenue and operating profit visualisation.
+- `quarterly-sales-profits.png` – Quarterly sales and profit visualisation.
+- `regional-sales-analysis.png` – Regional revenue and operating profit visualisation.
+- `retailer-revenue-profit-comparison.png` – Retailer revenue and operating profit comparison.
+- `Adidas Recommendation.docx` – Detailed business recommendations based on the analysis.
 
 ## Conclusion
 
